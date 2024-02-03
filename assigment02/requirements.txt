@@ -1,0 +1,12 @@
+gdown
+sentencepiece
+transformers>=4.28.0
+loralib
+bitsandbytes 
+appdirs
+git+https://github.com/huggingface/accelerate.git
+git+https://github.com/huggingface/datasets.git
+einops
+auto-gptq
+optimum
+git+https://github.com/huggingface/peft.git
